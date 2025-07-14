@@ -1,1 +1,1 @@
-# anime-vanguards-towery
+# av-towery-updater
